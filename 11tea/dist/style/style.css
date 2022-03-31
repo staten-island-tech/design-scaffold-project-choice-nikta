@@ -23,6 +23,7 @@ h1 {
 
 h2 {
   font-size: var(--h2);
+  font-family: "Grandstander", cursive;
 }
 
 h3 {
@@ -44,4 +45,8 @@ h5 {
   text-align: center;
 }
 :root {
+}
+
+html {
+  background-color: aqua;
 }

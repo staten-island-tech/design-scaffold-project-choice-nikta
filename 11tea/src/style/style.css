@@ -51,11 +51,8 @@ html {
   background-color: aqua;
 }
 
-.nav-item-desk {
-  background-color: red;
-  font-family: "Grandstander", cursive;
-}
-
 /* just install tailwind tbh this boring to do */
+
 /* some notes: figure out how to make the circle only appear partially (unless it can just clip outside then its fine; mabye mess around with color cause im not doing ukrain now; use some images from that thing on the rubric; button effects; should be it in terms of design? also make sure it passes wave */
+
 /* need to add a sort feature, look at the rest of the requirments */

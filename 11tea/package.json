@@ -9,6 +9,7 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
+    
   },
   "keywords": [],
   "author": "",
@@ -19,4 +20,5 @@
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
   }
+  
 }

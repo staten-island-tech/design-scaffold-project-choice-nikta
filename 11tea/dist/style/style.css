@@ -48,11 +48,14 @@ h5 {
 }
 
 html {
-  background-color: aqua;
+  background-color: #f5ff5e;
 }
 
-/* just install tailwind tbh this boring to do */
+.nav-item-desk {
+  font-size: 400%;
+  background-color: #685eff;
+  color: whitesmoke;
+}
+/* use the bacco for the circles not the text bacco */
 
-/* some notes: figure out how to make the circle only appear partially (unless it can just clip outside then its fine; mabye mess around with color cause im not doing ukrain now; use some images from that thing on the rubric; button effects; should be it in terms of design? also make sure it passes wave */
-
-/* need to add a sort feature, look at the rest of the requirments */
+/* install scss */

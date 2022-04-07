@@ -53,9 +53,14 @@ html {
 
 .nav-item-desk {
   font-size: 400%;
-  background-color: #685eff;
+  background-color: black;
   color: whitesmoke;
+  text-decoration: none;
 }
-/* use the bacco for the circles not the text bacco */
 
-/* install scss */
+#blog-button {
+}
+
+#home-button {
+}
+/* use the bacco for the circles not the text bacco #685eff */

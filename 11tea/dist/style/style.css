@@ -58,7 +58,10 @@ html {
   text-decoration: none;
 }
 
-#blog-button {
+#btn {
+  background-color: red;
+}
+#btn {
 }
 
 #home-button {

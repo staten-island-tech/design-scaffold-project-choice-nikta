@@ -76,3 +76,12 @@ html {
   border-bottom-right-radius: 0;
 }
 /* use the bacco for the circles not the text bacco #685eff */
+.article-title {
+  background-color: #ff5ef5;
+}
+.article-author {
+  background-color: #ff5ef5;
+}
+.article-link {
+  outline: none;
+}

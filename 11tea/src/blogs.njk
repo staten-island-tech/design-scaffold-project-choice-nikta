@@ -17,6 +17,7 @@
             <h4 class="article-author">
               By {{ post.data.author }} : {{ post.data.date | postDate }}
             </h4>
+            <h4 class="artile-description">{{ post.data.description }}</h4>
             <a class="article-link" href="{{ post.url }}"> continue reading </a>
           </div>
           <img src="{{ post.data.image }}" alt="" class="img-preview" />

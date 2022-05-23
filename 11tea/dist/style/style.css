@@ -84,4 +84,9 @@ html {
 }
 .article-link {
   outline: none;
+  background-color: aqua;
+  
+}
+.artile-description {
+  background-color: #ff5ef5;
 }

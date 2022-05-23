@@ -61,8 +61,7 @@ html {
 #home-button {
   background-color: red;
 }
-#home-button {
-}
-
-#home-button {
+.main-article {
+  font-size: 2.5em;
+  background-color: blue;
 }

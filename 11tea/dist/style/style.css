@@ -56,10 +56,11 @@ html {
   background-color: black;
   color: whitesmoke;
   text-decoration: none;
+  border-radius: 1rem;
 }
 
 #home-button {
-  background-color: red;
+  /* background-color: red; */
 }
 #home-button {
 }
@@ -83,10 +84,31 @@ html {
   background-color: #ff5ef5;
 }
 .article-link {
-  outline: none;
   background-color: aqua;
-  
+  font-size: 2rem;
+  height: 3rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2rem;
+  padding: 2rem;
+  font-family: "Grandstander", cursive;
 }
 .artile-description {
   background-color: #ff5ef5;
+}
+.img-preview {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.main-article {
+  background-color: red;
+}
+.header-title {
 }

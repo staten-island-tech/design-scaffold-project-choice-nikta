@@ -9,7 +9,6 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
-    
   },
   "keywords": [],
   "author": "",
@@ -19,6 +18,8 @@
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "cloudinary": "^1.30.0"
   }
-  
 }

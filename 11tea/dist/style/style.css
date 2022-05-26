@@ -67,16 +67,8 @@ html {
 
 #home-button {
 }
-.dot {
-  width: 300px;
-  height: 300px;
-  background: #000;
-  border-top-left-radius: 100%;
-  border-top-right-radius: 0;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-/* use the bacco for the circles not the text bacco #685eff */
+
+/*  #685eff */
 .article-title {
   background-color: #ff5ef5;
 }
@@ -108,12 +100,21 @@ html {
 }
 
 .main-article {
-  
+}
+.header {
+  /* background-color: wheat; */
 }
 .header-title {
+  padding: 40px;
+  background-color: wheat;
+  border-radius: 20rem;
+}
+.header-disc {
+  padding: 10px;
+  border-radius: 2rem;
 }
 @media (max-width: 400px) {
   .article {
-      width: 400px;
+    width: 400px;
   }
 }

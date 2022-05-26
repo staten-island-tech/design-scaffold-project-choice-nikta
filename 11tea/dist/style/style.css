@@ -108,7 +108,12 @@ html {
 }
 
 .main-article {
-  background-color: red;
+  
 }
 .header-title {
+}
+@media (max-width: 400px) {
+  .article {
+      width: 400px;
+  }
 }

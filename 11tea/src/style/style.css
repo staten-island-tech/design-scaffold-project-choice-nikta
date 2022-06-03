@@ -57,20 +57,18 @@ html {
   text-decoration: none;
   border-radius: 0.3rem;
   justify-content: space-evenly;
-  
 }
 #home-button {
-  box-shadow: inset 0 0 0 0 #26D939;
+  box-shadow: inset 0 0 0 0 #26d939;
   transition: ease-out 0.5s;
-  
 }
 #home-button:hover {
-  box-shadow: inset 100px 0 0 0 #26D939;
+  box-shadow: inset 100px 0 0 0 #26d939;
   cursor: pointer;
   color: black;
 }
 
-#home-button:hover:before{
+#home-button:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
@@ -78,32 +76,29 @@ html {
   z-index: -1;
 }
 #blog-button {
-  box-shadow: inset 0 0 0 0 #26D939;
+  box-shadow: inset 0 0 0 0 #26d939;
   transition: ease-out 0.5s;
 }
 #blog-button:hover {
-  box-shadow: inset 100px 0 0 0 #26D939;
+  box-shadow: inset 100px 0 0 0 #26d939;
   cursor: pointer;
   color: black;
 }
 /*  #685eff */
 .article-title {
-  background-color: #D99226;
+  background-color: #d99226;
   margin-left: auto;
   width: 45rem;
   margin-right: auto;
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
-  
-   
 }
 .article-author {
-  background-color: #D99226;
+  background-color: #d99226;
   margin-left: auto;
   width: 45rem;
   margin-right: auto;
   padding: 1rem;
-   
 }
 .article-link {
   font-size: 2rem;
@@ -122,11 +117,10 @@ html {
   z-index: 1;
   position: relative;
   outline: none;
-  color: red;
-  
+  color: white;
 }
 .article-link:hover {
-  color: red;
+  color: black;
   cursor: pointer;
 }
 .article-link:before {
@@ -138,9 +132,9 @@ html {
   bottom: -1;
   opacity: 0;
   content: "";
-  background-color: orange;
+  background-color: #d99226;
 }
-.article-link:hover:before{
+.article-link:hover:before {
   transition: 0.5s all ease;
   left: 0;
   right: 0;
@@ -148,13 +142,12 @@ html {
   z-index: -1;
 }
 .artile-description {
-  background-color: #D99226;
+  background-color: #d99226;
   margin-left: auto;
- width: 45rem;
- margin-right: auto;
- border-bottom-right-radius: 2rem;
- border-bottom-left-radius: 2rem;
-
+  width: 45rem;
+  margin-right: auto;
+  border-bottom-right-radius: 2rem;
+  border-bottom-left-radius: 2rem;
 }
 .img-preview {
   border-radius: 50%;
@@ -166,7 +159,7 @@ html {
 }
 
 .header-title {
-  background-color: #D99226;
+  background-color: #d99226;
   margin-left: auto;
   width: 70rem;
   margin-right: auto;
@@ -178,13 +171,11 @@ html {
   width: 70rem;
   margin-right: auto;
   border-radius: 2rem;
-  background-color: #D99226;
+  background-color: #d99226;
   padding: 10px;
   margin-top: 30px;
-  
 }
 .header-image {
-  
   display: block;
   margin-left: auto;
   margin-right: auto;
